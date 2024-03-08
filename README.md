@@ -1,30 +1,24 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14228735&assignment_repo_type=AssignmentRepo)
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# AirGuard
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+O AirGuard tem como objetivo monitorar a qualidade do ar que você respira, fazendo o monitoramento constante com alarmes configurados pelo usuário.
+Sua utilização pode variar desde uso pessoal para aqueles que se preocupam com sua própria saúde, até industrias e hospitais, onde a qualidade do ar pode ser a diferença entre problema e tranquilidade.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Pedro Mafra Vasconcelos](https://github.com/pmafravas)
+* [Mariana Aram Silva]()
+* [Yago Garzon Chaves]()
+* [André Luiz Assunção Corrêa]()
 
 ## Professor responsável
 
 * [Felipe Augusto Lima Reis](https://github.com/falreis)
 
 ## Gerenciamento do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
@@ -35,19 +29,10 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
+> Apresentação ainda não concluida
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
 ## Informações Adicionais
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
+> Nada a ser exibido ainda
