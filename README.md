@@ -10,9 +10,9 @@ Sua utilização pode variar desde uso pessoal para aqueles que se preocupam com
 ## Alunos integrantes da equipe
 
 * [Pedro Mafra Vasconcelos](https://github.com/pmafravas)
-* [Mariana Aram Silva]()
-* [Yago Garzon Chaves]()
-* [André Luiz Assunção Corrêa]()
+* [Mariana Aram Silva](https://github.com/marianaaram)
+* [Yago Garzon Chaves](https://github.com/yagogarzon)
+* [André Luiz Assunção Corrêa](https://github.com/dedelac)
 
 ## Professor responsável
 
