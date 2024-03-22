@@ -17,7 +17,7 @@
 
 # Atas de Reunião
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Atas de reunião das reuniões passadas
 
 > A ata de reunião é responsável por registrar e documentar as discussões, decisões e ações tomadas durante as reuniões do projeto.
 > Este instrumento fornece uma narrativa estruturada daquilo que foi abordado na reunião, ajudando a preservar a transparência, a responsabilidade e a memória do grupo. 
@@ -29,8 +29,6 @@
 
 ## Atas de Reunião do Projeto
 
-......  ATUALIZE A LISTA DE ATAS DE REUNIÃO DO PROJETO ......
-
 > Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
 > Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
 
@@ -38,6 +36,7 @@
 2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
 3. [2024-03-08 - Ata de Reunião](artefatos/ata-reuniao_2024-03-08.pdf)
 4. [2024-03-15 - Ata de Reunião](artefatos/ata-reuniao_2024-03-15.pdf)
+5. [2024-03-22 - Ata de Reunião](artefatos/ata-reuniao_2024-03-22.pdf)
 
 # Relatórios de Desempenho
 
@@ -55,7 +54,7 @@
 
 ## Insights do repositório
 
-......  ATUALIZE AS IMAGENS MENSALMENTE ......
+Insights dos meses:
 
 > Os insights do repositório indicam a quantidade de commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
@@ -64,13 +63,13 @@
 ![Insight - Mês Fevereiro](images/insights.png)
 
 **Insight - Mês Abril**
-> Adicione aqui insights do mês de Abril.
+> Ainda não feito
 
 **Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
+> Ainda não feito
 
 **Insight - Mês Junho**
-> Adicione aqui insights do mês de Junho.
+> Ainda não feito
 
 ## Burn-up do projeto
 
