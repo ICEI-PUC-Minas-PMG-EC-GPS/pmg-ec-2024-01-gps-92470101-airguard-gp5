@@ -63,7 +63,7 @@ Insights dos meses:
 ![Insight - Mês Fevereiro](images/insights.png)
 
 **Insight - Mês Abril**
-![Insight - Mês Abril](imagens/abril.png)
+![Insight - Mês Abril](docs/04-monitoramento/images/abril.png)
 
 **Insight - Mês Maio**
 > Ainda não feito
