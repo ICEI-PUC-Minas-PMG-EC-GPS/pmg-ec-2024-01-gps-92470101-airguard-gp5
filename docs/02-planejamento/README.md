@@ -136,38 +136,35 @@ O Plano de Aquisições define o processo relacionado à aquisição de bens e s
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
-
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
+- [Declaração de Escopo](artefatos/Grupo_5.pod)
 
 ## Checklist de Qualidade
 
 > Você deve preencher o seguinte documento:
-- [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+- [Checklist de Qualidade](artefatos/Checklist.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
 > Você deve preencher o seguinte documento:
-- [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto](artefatos/Grupo_5.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
 > Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+- [Estrutura Analítica do Projeto](artefatos/Declaracao_de_escopo.docx)
 
 ## Matriz de Responsabilidades (RACI)
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/Matriz_RACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
 > Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
+- [Plano de Gerenciamento de Comunicação](artefatos/Plano_Comunicacao.pdf)
 
 ## Plano de Gerenciamento de Riscos
 
