@@ -46,12 +46,10 @@ A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma 
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
+A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
+Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
+Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
+Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
 
 > Informações Adicionais:
 > * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
@@ -63,13 +61,16 @@ A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma 
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Orçamentos dos itens | Etapa inicial  
+Planejamento de funções | Etapa inicial  
+Desenvolvimento do Software | Etapa intermediaria  
+Montagem do Hardware | Etapa intermediaria  
+Teste de Funcionamento | Etapa intermediaria  
+Desenvolvimento de aplicação mobile | Etapa final  
+Ajuste fino de aplicativo móvel | Etapa final  
+Testes finais | Etapa final  
 
 > O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-
 
 # Cronograma do Projeto
 
@@ -82,13 +83,10 @@ A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma 
 
 # Orçamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+O arquivo do Orçamento está disponível ao final da página como arquivo .pod, utilize do ProjectLibre para visualizar
+
 
 # Planos de Gerenciamento
 
@@ -109,12 +107,9 @@ A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma 
 
 ## Plano de Qualidade
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
+O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
+Usamos de diversas normas para garantir a qualidade do produto em diversas áreas, usamos da ISO 8573, ISO/IEC 25010 entre outros.
+É possível ver em maiores detalhes no link anexo ao fim da página.
 
 > Referência - Conceitual
 > * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
@@ -122,11 +117,6 @@ A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma 
 > Normas de Qualidade:
 > * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
 > * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
 
 > Processos de Garantia da Qualidade de Software
 > * https://ceur-ws.org/Vol-3200/paper22.pdf
