@@ -131,12 +131,8 @@ O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que 
 
 ## Plano de Aquisição
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. Gerenciado no software ProjectLibre, o plano de aquisição segue os custos gerados assim como quantidades necessárias e cada ponto do projeto que se encontra necessário realizar a aquisição.
 
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
 # Documentos
 
