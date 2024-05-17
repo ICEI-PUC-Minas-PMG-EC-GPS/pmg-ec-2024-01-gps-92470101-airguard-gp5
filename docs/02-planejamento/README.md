@@ -32,16 +32,12 @@
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma área específica é composta por três etapas principais: inicial, intermediária e final. Na etapa inicial, são definidos os orçamentos dos itens e o planejamento de funções. A etapa intermediária envolve o desenvolvimento do software, a montagem do hardware e os testes de funcionamento. Na etapa final, ocorre o desenvolvimento da aplicação mobile, o ajuste fino deste aplicativo e os testes finais para garantir a integridade do sistema. Cada etapa é essencial para assegurar a eficiência e eficácia do projeto, desde o planejamento até a implementação e testes finais.
 
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
 > Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
-> **Exemplo de EAP:**
-> ![Exemplo de EAP](images/exemplo_wbs.png)
+> **EAP:**
+> ![EAP](images/EAPimagem.png)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
