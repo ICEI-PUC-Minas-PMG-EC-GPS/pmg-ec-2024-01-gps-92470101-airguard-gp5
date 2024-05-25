@@ -1,11 +1,11 @@
 # Iniciação
 
-> A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
-> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
-> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
-> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
+ A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
+ Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
+ É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
+ Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
+ Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
+ O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
 
 # Estrutura do Documento
 
@@ -33,99 +33,84 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A crescente degradação da qualidade do ar nas áreas urbanas constitui uma séria ameaça à saúde pública e ao meio ambiente, exacerbada pela emissão descontrolada de poluentes provenientes de veículos, indústrias e outras fontes antropogênicas. Problemas respiratórios, cardiovasculares e o aumento na incidência de doenças crônicas estão diretamente relacionados à exposição prolongada a altos níveis de poluentes atmosféricos, como partículas em suspensão (PM10 e PM2.5), dióxido de nitrogênio (NO2) e ozônio troposférico (O3). Além disso, a má qualidade do ar contribui para o aquecimento global e a acidificação de ecossistemas naturais. Diante deste cenário alarmante, a criação de um projeto de monitoramento da qualidade do ar é essencial para fornecer dados precisos e em tempo real sobre a concentração de poluentes!
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O principal objetivo do projeto de monitoramento da qualidade do ar é estabelecer um sistema abrangente e preciso de coleta e análise de dados atmosféricos, que permita avaliar continuamente os níveis de poluição do ar em áreas urbanas e rurais. Este projeto visa identificar as principais fontes de poluição, compreender os padrões de dispersão dos poluentes e avaliar o impacto das condições meteorológicas sobre a qualidade do ar. Além disso, o projeto pretende fornecer informações em tempo real à população e às autoridades competentes, facilitando a tomada de decisões rápidas e eficazes para mitigar os efeitos negativos da poluição. Outros objetivos incluem a promoção da conscientização pública sobre os riscos associados à poluição do ar, o apoio ao desenvolvimento de políticas ambientais mais rigorosas e a contribuição para pesquisas científicas voltadas para a melhoria da saúde pública e a proteção ambiental.
 
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As especificações do projeto de monitoramento da qualidade do ar incluem uma série de componentes técnicos e operacionais necessários para garantir a eficácia e a precisão do sistema. As principais especificações são:
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+- <b>Rede de Estações de Monitoramento:</b> Implementação de uma rede de estações fixas e móveis estrategicamente distribuídas para cobrir áreas urbanas e rurais, com sensores capazes de medir diferentes poluentes atmosféricos como PM2.5, PM10, NO2, SO2, CO, O3, entre outros.
+
+- <b> Tecnologia de Sensores: </b> Utilização de sensores de alta precisão e sensibilidade, calibrados regularmente, para garantir a acurácia dos dados coletados. Os sensores devem ser capazes de operar em diferentes condições ambientais e fornecer dados em tempo real.
+  
+- <b> Plataforma de Análise de Dados: </b> Desenvolvimento de uma plataforma de software para a análise e visualização dos dados coletados. Esta plataforma deve oferecer ferramentas para a análise estatística, modelagem preditiva, mapeamento geoespacial e geração de relatórios.
+
+
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os critérios de sucesso para o projeto de monitoramento da qualidade do ar são fundamentais para avaliar a eficácia e o impacto do projeto. Alguns critérios essenciais incluem:
 
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
- 
+- <b> Precisão e Confiabilidade dos Dados:  </b> Os sensores devem fornecer dados precisos e confiáveis sobre a concentração de poluentes. A validação regular e a calibração dos sensores são cruciais para garantir a acurácia das medições.
+
+- <b> Cobertura Geográfica Abrangente:  </b> A rede de estações de monitoramento deve cobrir todas as áreas críticas, incluindo zonas urbanas densamente povoadas e áreas rurais susceptíveis à poluição. A distribuição estratégica das estações é essencial para uma avaliação completa da qualidade do ar.
+
+- <b> Tempo de Resposta Rápido: </b> O sistema deve ser capaz de transmitir dados em tempo real ou quase em tempo real para as plataformas de análise e para o público. Uma resposta rápida é crucial para a emissão de alertas e a implementação de medidas mitigadoras.
+
+- <b> Integração com Políticas Públicas: </b> Os dados coletados devem ser utilizados efetivamente por autoridades e formuladores de políticas para desenvolver e implementar regulamentos ambientais que reduzam a poluição do ar e protejam a saúde pública.
+
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Cidadão preocupado  | Acessar os dados de qualidade do ar em tempo real    | Saber se é seguro sair de casa          |
+|Cidadão preocupado      | Receber alertas de poluição alta	               | Tomar medidas preventivas para proteger minha saúde|
+| Administrador municipal                    | Visualizar mapas de poluição                                    | Planejar ações para reduzir a poluição em áreas críticas         |
+| Pesquisador                                | Acessar dados históricos de qualidade do ar                     | Analisar tendências e padrões de poluição                        |
+| Pesquisador                                | Exportar dados em formatos compatíveis                          | Realizar análises detalhadas e publicar estudos                  |
+| Responsável por políticas                  | Receber relatórios mensais de qualidade do ar                   | Avaliar a eficácia das políticas ambientais implementadas        |
+| Engenheiro de sistemas                     | Manter a infraestrutura do sistema de monitoramento             | Garantir a disponibilidade e precisão dos dados coletados        |
+| Educador                                   | Acessar materiais educativos sobre poluição do ar               | Informar e sensibilizar estudantes sobre a importância da qualidade do ar |
+| Profissional da saúde                      | Consultar dados de poluição específicos de locais e horários    | Correlacionar dados de saúde com níveis de poluição              |
+| Desenvolvedor de aplicativos               | Integrar os dados de qualidade do ar com outras aplicações      | Fornecer funcionalidades adicionais aos usuários finais          |
+| Jornalista                                 | Obter dados atualizados e históricos sobre a qualidade do ar    | Publicar matérias informativas e de conscientização              |
+| Morador de áreas urbanas                   | Saber a qualidade do ar no meu bairro                           | Tomar decisões sobre atividades ao ar livre                      |
+| Morador de áreas rurais                    | Monitorar a qualidade do ar na minha região                     | Identificar possíveis fontes de poluição                         |
+| Ativista ambiental                         | Divulgar dados de poluição para a comunidade                    | Mobilizar ações coletivas e pressionar por mudanças políticas    |
+| Motorista                                  | Verificar a qualidade do ar nas rotas que utilizo               | Planejar rotas alternativas para evitar áreas poluídas           |
+| Paciente com problemas respiratórios       | Acompanhar a qualidade do ar diariamente                        | Minimizar a exposição a poluentes e prevenir crises              |
+| Empresa de transporte                      | Monitorar a qualidade do ar em áreas de operação                | Planejar medidas para reduzir a emissão de poluentes             |
+| Operador de estação de monitoramento       | Manter e calibrar os sensores de qualidade do ar                | Assegurar a precisão e a confiabilidade dos dados                |
+| Comunidade escolar                         | Consultar a qualidade do ar antes das atividades externas       | Garantir a segurança e saúde dos estudantes                      |
+| Turista                                    | Verificar a qualidade do ar antes de visitar uma área           | Planejar viagens com base na segurança e conforto                |
+| Responsável por obras públicas             | Monitorar o impacto das obras na qualidade do ar                | Minimizar a poluição durante grandes projetos de construção      |
 
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
+
 
 ## Requisitos Preliminares
-
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas.
 
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| RF-001 | Permitir que o usuário acesse dados de qualidade do ar em tempo real                                 | ALTA       |
+| RF-002 | Enviar alertas automáticos aos usuários quando níveis de poluição ultrapassarem limites pré-definidos | ALTA       |
+| RF-003 | Exibir mapas de poluição atualizados regularmente                                                     | ALTA       |
+| RF-004 | Armazenar e disponibilizar dados históricos de qualidade do ar                                        | ALTA       |
+| RF-005 | Permitir a exportação de dados em formatos compatíveis como CSV e Excel                                | MÉDIA      |
+| RF-006 | Gerar relatórios mensais automáticos sobre a qualidade do ar                                          | ALTA       |
+| RF-007 | Oferecer uma plataforma de visualização de dados com ferramentas de análise estatística              | ALTA       |
 
 ### Requisitos Não Funcionais
 
@@ -135,8 +120,17 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+| RNF-001| O sistema deve ser acessível via web e dispositivos móveis (iOS e Android)                                     | ALTA       |
+| RNF-002| O sistema deve garantir a transmissão de dados em tempo real com uma latência máxima de 5 segundos            | ALTA       |
+| RNF-003| O sistema deve possuir alta disponibilidade, com uptime de 99,9%                                               | ALTA       |
+| RNF-004| O sistema deve assegurar a precisão dos dados coletados, com calibração regular dos sensores                   | ALTA       |
+| RNF-005| O sistema deve ser escalável para suportar um aumento no número de estações de monitoramento e usuários       | ALTA       |
+| RNF-006| O sistema deve garantir a segurança dos dados coletados e armazenados, com criptografia de dados em trânsito e em repouso | ALTA       |
+| RNF-007| O sistema deve ter uma interface intuitiva e de fácil uso para todos os tipos de usuários                    | ALTA       |
+| RNF-008| O sistema deve permitir a recuperação rápida em caso de falha, com um tempo de recuperação máximo de 1 hora   | ALTA       |
+| RNF-009| O sistema deve suportar múltiplos idiomas para atender a uma base de usuários diversificada                   | ALTA       |
+| RNF-010| O sistema deve ser compatível com padrões internacionais de qualidade do ar e regulamentos ambientais         | ALTA       |
+
 
 
 ### Restrições
@@ -147,16 +141,36 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| RE-001 | O sistema deve ser desenvolvido utilizando a linguagem Python      | ALTA       |
+| RE-002 | A equipe de desenvolvimento deve seguir a metodologia ágil Scrum   | ALTA       |
+| RE-003 | O orçamento total do projeto é limitado a $100.000                | ALTA       |
+| RE-004 | O sistema deve estar em conformidade com as regulamentações de proteção de dados GDPR | ALTA       |
+| RE-005 | O prazo de entrega do projeto é de seis meses                      | ALTA       |
 
 # Partes Interessadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No projeto Airguard, as partes interessadas incluem uma variedade de indivíduos e entidades que têm interesse direto ou indireto no sucesso e nos resultados do projeto. Abaixo estão algumas das partes interessadas identificadas, juntamente com seu nível de influência e possível importância para o sucesso do projeto:
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+1. **Governo Municipal**
+   - *Expectativas:* Espera-se que o projeto contribua para o cumprimento das regulamentações ambientais e para a proteção da saúde pública.
+   - *Nível de Influência:* Alto
+   - *Importância:* Crucial, pois o governo municipal é responsável por políticas e ações relacionadas ao meio ambiente e à saúde pública.
+
+2. **Moradores Locais**
+   - *Expectativas:* Eles esperam que o projeto forneça informações precisas sobre a qualidade do ar em suas áreas e contribua para um ambiente mais saudável.
+   - *Nível de Influência:* Médio a Alto
+   - *Importância:* Significativa, pois os moradores locais serão diretamente impactados pela qualidade do ar em suas comunidades.
+
+3. **Empresas e Indústrias Locais**
+   - *Expectativas:* Podem estar interessadas em monitorar e mitigar sua própria emissão de poluentes, além de usar os dados do projeto para cumprir regulamentações ambientais.
+   - *Nível de Influência:* Médio
+   - *Importância:* Considerável, especialmente se forem grandes fontes de poluição na área.
+
+4. **Pesquisadores e Acadêmicos**
+   - *Expectativas:* Eles podem usar os dados do projeto para estudos e análises relacionadas à qualidade do ar e seus impactos na saúde e no meio ambiente.
+   - *Nível de Influência:* Baixo a Médio
+   - *Importância:* Considerável, pois sua pesquisa pode fornecer insights valiosos e contribuir para o avanço do conhecimento sobre o assunto.
+
 
 # Estimativa de Custo e Prazo
 
@@ -174,13 +188,13 @@ A tabela a seguir apresenta as restrições do projeto.
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        | Desenvolvimento de software, gerenciamento do projeto      | 1000       | $50          | $50,000     |
+| Hardware                | Sensores de qualidade do ar, equipamentos de monitoramento | -          | -            | $20,000     |
+| Serviços de Rede        | Configuração de rede, comunicação de dados                 | 200        | $80          | $16,000     |
+| Hospedagem e Nuvem      | Servidores, armazenamento em nuvem                          | -          | -            | $15,000     |
+| Software de terceiros   | Licenças de software de análise e visualização de dados    | -          | -            | $10,000     |
+| Serviços e treinamento  | Consultoria especializada, treinamento de usuários         | 100        | $100         | $10,000     |
+| **Total Geral**         |                                                            |            |              | **$121,000**|
 
 
 ## Estimativa de Prazo
