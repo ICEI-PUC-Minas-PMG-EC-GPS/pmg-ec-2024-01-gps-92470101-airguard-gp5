@@ -64,8 +64,7 @@ A Arquitetura selecionada foi a de microserviços devido sua simplicidade e meno
 > Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
 
 
-> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> [Arquitetura da solução](images/arquitetura_solucao.png)
+> ![Arquitetura da solução](images/arquitetura_solucao.png)
 
 
 
