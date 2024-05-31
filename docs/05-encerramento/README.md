@@ -43,7 +43,5 @@ Foram aprendidos diversas etapas de uma gerencia que eram previamente desconheci
 
 # Sugestões e Críticas
 
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
-
-Exemplos de questões melhores.
+Exemplos de questões melhores.           
 Exemplos de documentos melhores.
