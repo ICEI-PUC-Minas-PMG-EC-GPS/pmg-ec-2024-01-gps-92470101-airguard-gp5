@@ -157,4 +157,4 @@ O Plano de Aquisições define o processo relacionado à aquisição de bens e s
 ## Plano de Gerenciamento de Riscos
 
 > Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
+- [Plano de Gerenciamento de Riscos](artefatos/Lista_de_Riscos.pdf)
