@@ -135,8 +135,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -176,15 +174,8 @@ No projeto Airguard, as partes interessadas incluem uma variedade de indivíduos
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
@@ -199,39 +190,95 @@ No projeto Airguard, as partes interessadas incluem uma variedade de indivíduos
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Detalhes da Estimativa de Prazo
 
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
+* **Prazo previsto**: 6 meses (aproximadamente 1040 horas)
+* **Data de início**: 9 de fevereiro de 2024
+* **Data de término**: 9 de agosto de 2024
 
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
+### Fases do Projeto
+
+1. **Planejamento e Definição de Requisitos**: 
+   - **Duração**: 2 semanas
+   - **Horas estimadas**: 80 horas
+   - **Data de início**: 9 de fevereiro de 2024
+   - **Data de término**: 23 de fevereiro de 2024
+
+2. **Desenvolvimento do Sistema**: 
+   - **Duração**: 16 semanas
+   - **Horas estimadas**: 640 horas
+   - **Data de início**: 26 de fevereiro de 2024
+   - **Data de término**: 17 de junho de 2024
+
+3. **Configuração de Hardware e Rede**: 
+   - **Duração**: 4 semanas
+   - **Horas estimadas**: 160 horas
+   - **Data de início**: 18 de junho de 2024
+   - **Data de término**: 15 de julho de 2024
+
+4. **Testes e Ajustes Finais**: 
+   - **Duração**: 3 semanas
+   - **Horas estimadas**: 120 horas
+   - **Data de início**: 16 de julho de 2024
+   - **Data de término**: 5 de agosto de 2024
+
+5. **Treinamento e Implantação**: 
+   - **Duração**: 1 semana
+   - **Horas estimadas**: 40 horas
+   - **Data de início**: 6 de agosto de 2024
+   - **Data de término**: 9 de agosto de 2024
+
+
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Metodologia Adotada
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+### Framework Scrum
+
+Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scrum, uma metodologia ágil que facilita a gestão eficiente do projeto e garante entregas incrementais de valor ao cliente. Abaixo estão os componentes principais do Scrum que serão utilizados:
+
+#### Papéis e Responsabilidades
+
+- **Product Owner (PO)**: Responsável por definir e priorizar as funcionalidades do produto. O PO será o ponto de contato principal para todas as decisões relacionadas aos requisitos e à visão do produto.
+- **Scrum Master**: Facilita o processo Scrum e remove impedimentos que possam afetar o progresso da equipe. O Scrum Master garante que a equipe siga os princípios ágeis e ajuda na resolução de conflitos.
+- **Equipe de Desenvolvimento**: Composta por desenvolvedores, testadores e outros profissionais técnicos que trabalham juntos para entregar incrementos de produto potencialmente utilizáveis a cada Sprint.
+
+#### Ciclo de Trabalho
+
+1. **Sprint Planning**: 
+   - **Objetivo**: Planejar o trabalho que será realizado na próxima Sprint.
+   - **Atividades**: Definição do objetivo da Sprint, seleção dos itens do Backlog do Produto que serão trabalhados e criação do Sprint Backlog.
+
+2. **Daily Scrum**: 
+   - **Objetivo**: Revisar o progresso do projeto e planejar as atividades do dia.
+   - **Atividades**: Reuniões diárias de 15 minutos onde cada membro responde às perguntas: O que fiz ontem? O que farei hoje? Há algum impedimento?
+
+3. **Sprint Review**: 
+   - **Objetivo**: Demonstrar o trabalho concluído durante a Sprint e obter feedback dos stakeholders.
+   - **Atividades**: Apresentação dos incrementos de produto e discussão sobre possíveis ajustes.
+
+4. **Sprint Retrospective**: 
+   - **Objetivo**: Refletir sobre a Sprint passada e identificar melhorias para processos futuros.
+   - **Atividades**: Discussão sobre o que foi bem, o que pode ser melhorado e ações para melhoria contínua.
+
+### Ferramentas Utilizadas
+
+- **GitHub Project**: Utilizado para gerenciar tarefas, acompanhar o andamento do projeto e controlar o status de desenvolvimento da solução. Cada tarefa será representada como um cartão no quadro do projeto, movendo-se através de colunas que representam diferentes estados de progresso (e.g., "To Do", "In Progress", "Done").
+
+- **GitHub Issues**: Para rastreamento de bugs e solicitações de melhorias. Cada issue será vinculada a um cartão no GitHub Project para garantir que todos os problemas sejam gerenciados e resolvidos de forma transparente.
+
+- **Git**: Para controle de versão do código, garantindo que todas as alterações sejam rastreáveis e revertíveis, se necessário. A equipe fará commits frequentes e revisará o código através de pull requests.
+
+- **Slack**: Para comunicação interna rápida e eficiente. Canais dedicados para discussões de projeto, notificações de GitHub e outras comunicações relacionadas ao projeto serão criados.
+
+- **Confluence**: Para documentação do projeto, incluindo definição de requisitos, decisões arquiteturais e guias de usuário.
+
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+
 
 ## Ferramentas
 
