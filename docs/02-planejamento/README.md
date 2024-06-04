@@ -34,7 +34,8 @@ A qualidade do planejamento influencia diretamente a capacidade da equipe em cum
 
 A Estrutura Analítica de Projeto (EAP) para monitorar a qualidade do ar de uma área específica é composta por três etapas principais: inicial, intermediária e final. Na etapa inicial, são definidos os orçamentos dos itens e o planejamento de funções. A etapa intermediária envolve o desenvolvimento do software, a montagem do hardware e os testes de funcionamento. Na etapa final, ocorre o desenvolvimento da aplicação mobile, o ajuste fino deste aplicativo e os testes finais para garantir a integridade do sistema. Cada etapa é essencial para assegurar a eficiência e eficácia do projeto, desde o planejamento até a implementação e testes finais.
 
-**EAP:**
+EAP:
+
  ![EAP](images/EAPimagem.png)
 
 
