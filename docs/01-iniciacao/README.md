@@ -327,16 +327,14 @@ Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scr
 
 # Documentos
 
-- [Todos os documentos](artefatos/)
-
 ## Declaração de Escopo
 
-- [Declaração de Escopo](artefatos/Declaracao_de_escopo.docx)
+- [Declaração de Escopo](docs/02-planejamento/artefatos/Declaracao_de_escopo.docx)
 
 ## Registro de Partes Interessadas
 
 > Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+- [Registro de Partes Interessadas](artefatos/Tarefa1_Grupo5.pdf)
 
 ## Termo de Abertura do Projeto (TAP)
 
