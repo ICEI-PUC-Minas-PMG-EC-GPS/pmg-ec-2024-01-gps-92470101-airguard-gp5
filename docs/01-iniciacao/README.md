@@ -359,5 +359,4 @@ Essa documentação garante a clareza, alinhamento e comprometimento de todos os
 
 O projeto Air Guard tem como objetivo desenvolver e implementar um sistema de monitoramento da qualidade do ar, fornecendo dados em tempo real para identificar, analisar e mitigar problemas de poluição atmosférica. O projeto visa melhorar a qualidade de vida da população, fornecendo informações precisas e atualizadas sobre a qualidade do ar em áreas urbanas.
 
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/Termo_de_Abertura_de_Projeto.pdf)
+ - [Termo de Abertura do Projeto](artefatos/Termo_de_Abertura_de_Projeto.pdf)
