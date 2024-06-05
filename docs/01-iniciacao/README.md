@@ -277,38 +277,61 @@ Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scr
 
 ## Divisão de Papéis
 
+### Papéis e Responsabilidades
 
+#### Pedro Mafra - Gerente de Projeto
+- **Nível de Proficiência**: Alta
+- **Treinamentos Necessários**: Não
+- **Responsabilidades**:
+  - Gerenciar o projeto como um todo, garantindo que todas as atividades sejam realizadas dentro do prazo e do orçamento estabelecidos.
+  - Coordenar e supervisionar o trabalho da equipe, garantindo a comunicação eficaz e a resolução de conflitos.
+  - Identificar e mitigar riscos do projeto, ajustando o plano conforme necessário para garantir o sucesso do projeto.
+
+#### Yago Garzon - Desenvolvedor e Analista
+- **Nível de Proficiência**: Alta (Desenvolvedor), Média (Analista)
+- **Treinamentos Necessários**: Não
+- **Responsabilidades**:
+  - Como desenvolvedor: Desenvolver e implementar funcionalidades do sistema de acordo com os requisitos do projeto.
+  - Como analista: Realizar análises de dados para identificar padrões e insights relevantes relacionados à qualidade do ar.
+
+#### Mariana Aram - Desenvolvedora
+- **Nível de Proficiência**: Média
+- **Treinamentos Necessários**: Sim - Métodos de teste (Lecionado por Yago)
+- **Responsabilidades**:
+  - Desenvolver e implementar as funcionalidades do sistema.
+  - Participar ativamente nos processos de teste, utilizando métodos de teste aprendidos com Yago.
+
+#### André Luis - Analista e Tester
+- **Nível de Proficiência**: Alta (Analista), Baixa (Tester)
+- **Treinamentos Necessários**: Sim - Métodos de teste
+- **Responsabilidades**:
+  - Como analista: Analisar os requisitos do projeto e propor soluções técnicas adequadas.
+  - Como tester: Realizar testes de software, identificar e relatar bugs, e sugerir melhorias nos processos de teste.
+
+### Estrutura de Trabalho
+
+- **Colaboração**: Todos os membros da equipe colaborarão estreitamente para garantir que todas as tarefas sejam concluídas de forma eficiente e de acordo com os requisitos do projeto.
+- **Reuniões Semanais**: A equipe realizará reuniões semanais para revisar o progresso, discutir desafios e ajustar o plano conforme necessário.
+- **Comunicação**: Utilização de ferramentas como Slack para comunicação interna rápida e eficiente e Confluence para documentação do projeto.
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/3 | Centralização e organização do projeto no próprio repositório. |
+| EAP / WBS             | Miro | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-airguard-gp5/blob/master/docs/02-planejamento/artefatos/EAP.pdf | Desagregar o Escopo, facilitar o planejamento e facilitar o planejamento |
+| Cronograma do Projeto |Project Libre | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-airguard-gp5/blob/master/docs/02-planejamento/artefatos/Grupo_5.pod| Planejamento, sequenciamento de atividades e controle de Tempo|
+| Matriz RACI           | Word | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-airguard-gp5/blob/master/docs/02-planejamento/artefatos/Matriz_RACI.pdf| Definir papéis e responsabilidades, melhorar a comunicação e identificar lacunas e sobrecargas de recursos |
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
+- [Todos os documentos](artefatos/)
 
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/Declaracao_de_escopo.docx)
 
 ## Registro de Partes Interessadas
 
