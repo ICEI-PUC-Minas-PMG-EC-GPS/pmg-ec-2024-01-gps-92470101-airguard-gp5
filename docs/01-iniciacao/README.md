@@ -326,23 +326,38 @@ Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scr
 | Matriz RACI           | Word | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-airguard-gp5/blob/master/docs/02-planejamento/artefatos/Matriz_RACI.pdf| Definir papéis e responsabilidades, melhorar a comunicação e identificar lacunas e sobrecargas de recursos |
 
 # Documentos
-
 ## Declaração de Escopo
 
-- [Declaração de Escopo](docs/02-planejamento/artefatos/Declaracao_de_escopo.docx)
+- [Declaração de Escopo](docs/02-planejamento/artefatos/Template_Declaracao_de_escopo.docx)
 
 ## Registro de Partes Interessadas
 
 > Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/Tarefa1_Grupo5.pdf)
+- [Registro de Partes Interessadas](artefatos/Tarefa1_ Grupo5.pdf)
 
 ## Termo de Abertura do Projeto (TAP)
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
+ O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
+Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
+O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
+Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
+Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
+
+### Informações do Projeto
+
+**Nome do Projeto**: Air Guard
+
+**Patrocinador**: Departamento de Meio Ambiente e Sustentabilidade
+
+**Gerente do Projeto**: Pedro Mafra
+
+**Data de Início**: 9 de fevereiro de 2024
+
+**Data de Término Prevista**: 9 de agosto de 2024
+
+### Objetivos do Projeto
+
+O projeto Air Guard tem como objetivo desenvolver e implementar um sistema de monitoramento da qualidade do ar, fornecendo dados em tempo real para identificar, analisar e mitigar problemas de poluição atmosférica. O projeto visa melhorar a qualidade de vida da população, fornecendo informações precisas e atualizadas sobre a qualidade do ar em áreas urbanas.
 
 > Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> - [Termo de Abertura do Projeto](artefatos/Termo_de_Abertura_de_Projeto.pdf)
