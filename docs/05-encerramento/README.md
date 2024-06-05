@@ -34,8 +34,8 @@ Foram aprendidos diversas etapas de uma gerencia que eram previamente desconheci
 <b>Pedro Mafra</b>:       
 8/10 - Eu acho que dentro do projeto consegui ser bem proeficiente, conseguindo atender as demandas impostas e fazer um bom controle das pendências que foram impostas assim como criadas.      
 
-<b>Mariana Aram</b>:         
-
+<b>Mariana Aram</b>:       
+8/10 - Fui muito compromissada com prazos e meu grupo, porém poderia melhorar aperfeiçoando o capricho e detalhes nas documentações.
 <b>Yago Garzon</b>:      
 
 <b>André Luiz</b>:        
