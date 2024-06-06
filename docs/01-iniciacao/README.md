@@ -114,8 +114,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
