@@ -332,8 +332,7 @@ Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scr
 
 ## Registro de Partes Interessadas
 
-> Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/Tarefa1_ Grupo5.pdf)
+- [Registro de Partes Interessadas](artefatos/Tarefa1_Grupo5.pdf)
 
 ## Termo de Abertura do Projeto (TAP)
 
