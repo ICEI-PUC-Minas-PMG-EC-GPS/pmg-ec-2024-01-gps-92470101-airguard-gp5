@@ -328,7 +328,7 @@ Para o desenvolvimento do projeto "Air Guard", a equipe adotará o framework Scr
 # Documentos
 ## Declaração de Escopo
 
-- [Declaração de Escopo](docs/02-planejamento/artefatos/Template_Declaracao_de_escopo.docx)
+- [Declaração de Escopo](artefatos/Template_Declaracao_de_escopo.docx)
 
 ## Registro de Partes Interessadas
 
