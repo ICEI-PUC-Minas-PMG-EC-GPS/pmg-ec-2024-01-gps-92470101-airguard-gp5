@@ -76,10 +76,8 @@ Insights dos meses:
 
 ## Relatório de tarefas concluídas
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
-
 > O relatório de tarefas concluídas por pessoa é oferece uma visão do desempenho individual dos membros da equipe em relação às atividades atribuídas durante um sprint ou durante o projeto. 
 > Ao detalhar as tarefas concluídas por cada membro da equipe, o relatório permite uma análise mais precisa da distribuição de carga de trabalho, participação na realização das mesmas, identificação de possíveis gargalos ou pessoas que não estão contribuindo de forma adequada.
 > Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
 
-![Relatório de tarefas concluídas](images/tarefas-concluidas.png)
+![Relatório de tarefas concluídas](images/commit.png)
