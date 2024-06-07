@@ -55,10 +55,10 @@ Insights dos meses:
 ![Insight - Mês Abril](images/abril.png)
 
 **Insight - Mês Maio**
-![Insight - Mês Mario](images/Insight3.png)
+![Insight - Mês Maio](images/Insight3.png)
 
 **Insight - Mês Junho**
-> Ainda não feito
+![Insight - Mês Junho](images/junho.png)
 
 ## Burn-up do projeto
 
