@@ -62,17 +62,11 @@ Insights dos meses:
 
 ## Burn-up do projeto
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
-
 > No Scrum, o gráfico burn-up é uma ferramenta utilizada para visualizar o progresso acumulado de um time em relação às entregas planejadas ao longo do tempo. 
 > Esse gráfico é construído com base em duas linhas principais: a linha de escopo total do projeto (geralmente representada por uma linha reta ascendente) e a linha de trabalho concluído pelo time (geralmente representada por uma linha que se acumula ao longo do tempo). 
 > A interseção entre essas duas linhas revela o progresso real do projeto.
-> 
-> O gráfico burn-up proporciona uma visão do desenvolvimento do projeto, permitindo que as equipes e os stakeholders acompanhem de perto o trabalho concluído em comparação com as metas estabelecidas. 
-> Se a linha de trabalho concluído se mantém abaixo da linha de escopo total, pode indicar que o projeto está atrasado.
-> Por outro lado, se a linha de trabalho concluído se mantém acima da linha de escopo total, isto pode indicar que o projeto está adiantado em relação ao planejado.
 
-![Burn-up](images/burn-up.png)
+![Burn-up](images/issue.png)
 
 ## Relatório de tarefas concluídas
 
