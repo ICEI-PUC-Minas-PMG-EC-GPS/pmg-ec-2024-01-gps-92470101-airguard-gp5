@@ -40,7 +40,10 @@ Foram aprendidos diversas etapas de uma gerencia que eram previamente desconheci
 <b>Yago Garzon</b>:      
 7,5/10 - Consegui ajudar com as atividades dadas durante todo o semestre, principalmente nas atividades semanais, porém poderia ter auxiliado mais nas atas de reunião e uploads no GitHub, que geralmente esquecia e outros colegas faziam.
 
-<b>André Luiz</b>:        
+
+
+<b>André Luiz</b>:  
+7,5/10 - Fui compromissado com os prazos e meu grupo, ajudei nas atividade e presenciei as aulas durante o semestre. Ao mesmo tempo, não ajudei em algumas coisas que poderia ter sido mais proativo.
 
 
 # Sugestões e Críticas
