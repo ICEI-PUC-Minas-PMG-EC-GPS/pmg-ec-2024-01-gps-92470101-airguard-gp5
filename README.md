@@ -31,7 +31,7 @@ Fases do Gerenciamento do Projeto:
 
 > Apresentação ainda não concluida
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://youtu.be/LJryNjJSHzo)
 
 ## Informações Adicionais
 
