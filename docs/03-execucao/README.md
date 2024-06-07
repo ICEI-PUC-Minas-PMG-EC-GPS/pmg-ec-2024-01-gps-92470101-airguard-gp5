@@ -40,7 +40,7 @@
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/AirGuard.jpg)
 
 # Modelagem da Solução
 
