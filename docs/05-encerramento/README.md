@@ -36,7 +36,9 @@ Foram aprendidos diversas etapas de uma gerencia que eram previamente desconheci
 
 <b>Mariana Aram</b>:       
 8/10 - Fui muito compromissada com prazos e meu grupo, porém poderia melhorar aperfeiçoando o capricho e detalhes nas documentações.
+
 <b>Yago Garzon</b>:      
+7,5/10 - Consegui ajudar com as atividades dadas durante todo o semestre, principalmente nas atividades semanais, porém poderia ter auxiliado mais nas atas de reunião e uploads no GitHub, que geralmente esquecia e outros colegas faziam.
 
 <b>André Luiz</b>:        
 
