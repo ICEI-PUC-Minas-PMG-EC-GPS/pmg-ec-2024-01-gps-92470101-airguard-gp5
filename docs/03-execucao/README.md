@@ -39,18 +39,58 @@ A Arquitetura selecionada foi a de microserviços devido sua simplicidade e meno
 
 ## Diagrama de Classes
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
 
-> O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
-> O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e contínua do software.
->
+O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
+
+
 > **Diagrama de Classes:**
-> Desenvolva um diagrama de classes para o sistema proposto.
-> Caso a solução fique muito grande, divida o diagrama por módulos ou serviços.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
+> Tabela 'companies':
+>
+>    Atributos: company_id, company_name, company_email, company_role, locale_id
+>    Relações: Cada empresa (companies) pode estar associada a vários locais (locale).
+>
+>Tabela 'users':
+>
+>    Atributos: user_id, company_name, company_email, company_role, created_at
+>    Relações: Os usuários (users) estão vinculados a empresas (company_name e company_email).
+>
+>Tabela 'locale':
+>
+>    Atributos: locale_id, locale_name, company_name, description, sensor_id
+>    Relações: Cada local (locale) está vinculado a uma empresa e pode ter vários sensores (sensors).
+>
+>Tabela 'sensors':
+>
+>    Atributos: sensor_id, sensor_type, locale_id, installation_date, device_id
+>    Relações: Os sensores (sensors) estão instalados em locais (locale_id) e podem estar associados a dispositivos (devices).
+>
+>Tabela 'readings':
+>
+>    Atributos: reading_id, sensor_id, gas_type, value, reading_time
+>    Relações: Cada leitura (readings) está associada a um sensor (sensor_id).
+>
+>Tabela 'devices':
+>
+>    Atributos: device_id, device_type, brand, model, serial_number, employee_id
+>    Relações: Os dispositivos (devices) podem estar associados a sensores (sensor_id) e são mantidos por funcionários (employees).
+>
+>Tabela 'employees':
+>
+>    Atributos: employee_id, name, email, role, create_at, salary
+>    Relações: Funcionários (employees) são responsáveis por dispositivos (devices).
+>
+>Tabela 'support_calls':
+>
+>    Atributos: call_id, user_id, call_time, duration, issue_description, role
+>    Relações: Chamadas de suporte (support_calls) são registradas por usuários (user_id).
+>
+>Tabela 'aws_instance':
+>
+>    Atributos: instance_id, instance_type, launch_time, termination_time, status, cost
+>    Relações: Esta tabela parece ser autônoma, relacionada à gestão de instâncias AWS.
 >
 > **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
+> ![Diagrama de Classes](images/TabelaDados.jpeg)
 
 
 ## Persistência dos Dados
