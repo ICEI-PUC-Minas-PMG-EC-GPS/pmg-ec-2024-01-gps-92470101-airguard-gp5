@@ -18,7 +18,7 @@ Além disso, o monitoramento constante é essencial para garantir que o projeto 
 
 
 # Interfaces do Sistema
-![Exemplo de UserFlow](images/AirGuard.jpg)
+![Exemplo de UserFlow](images/AirGuard OFC.jpg)
 
 # Modelagem da Solução
 
