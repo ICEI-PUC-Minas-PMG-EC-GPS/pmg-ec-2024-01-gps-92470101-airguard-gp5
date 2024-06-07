@@ -17,20 +17,9 @@
 
 # Atas de Reunião
 
-Atas de reunião das reuniões passadas
-
-> A ata de reunião é responsável por registrar e documentar as discussões, decisões e ações tomadas durante as reuniões do projeto.
-> Este instrumento fornece uma narrativa estruturada daquilo que foi abordado na reunião, ajudando a preservar a transparência, a responsabilidade e a memória do grupo. 
-> Em uma ata de reunião típica, são registrados tópicos como a lista de participantes, agenda, pontos de discussão, decisões tomadas, ações atribuídas, e prazos acordados. 
-> A ata não apenas serve como uma referência histórica, mas também como um meio de comunicação eficaz para aqueles que não puderam participar, garantindo que todos estejam alinhados com os acontecimentos e responsabilidades subsequentes. 
-> 
-> Para preenchimento das atas de reunião, utilize o seguinte template:
-> * [Template de Ata de Reunião](artefatos/template-ata-reuniao.docx)
+Contem todos os itens discutidos previamente no projeto
 
 ## Atas de Reunião do Projeto
-
-> Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
-> Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
 
 1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
 2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
@@ -51,12 +40,6 @@ Atas de reunião das reuniões passadas
 > Podem incluir dados sobre custos, prazos, qualidade e outros indicadores-chave, permitindo insights para a tomada de decisões. 
 > Além disso, eles facilitam a identificação precoce de possíveis desvios e a implementação de ações corretivas, contribuindo para a gestão proativa de riscos e a maximização da eficiência operacional. 
 > A transparência proporcionada pelos relatórios promove a confiança aos stakeholders, melhorando a comunicação
-
-> Inclua nesta seção os relatórios de desempenho fornecidos pelo GitHub Project.
-> Os seguintes relatórios devem ser fornecidos:
-> * Insights do repositório.
-> * Burn-up do projeto.
-> * Relatório de tarefas concluídas, por aluno.
 
 ## Insights do repositório
 
