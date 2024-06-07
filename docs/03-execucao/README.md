@@ -26,12 +26,11 @@ A modelagem de software envolve a criação de representações abstratas que ca
 
 ## Arquitetura da solução
 
-A Arquitetura selecionada foi a de microserviços devido sua simplicidade e menor complexidade de implementação, assim como foi deifinido que o fluxo de dados seria baixo, a arquitetura de microserviços foi uma escolha mais racional por parte do grupo.
+A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
+A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
+Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
 
-> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
-> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
-> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
-> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
+A Arquitetura selecionada foi a de microserviços devido sua simplicidade e menor complexidade de implementação, assim como foi deifinido que o fluxo de dados seria baixo, a arquitetura de microserviços foi uma escolha mais racional por parte do grupo.
 
 
 > ![Arquitetura da solução](images/arquitetura_solucao.png)
